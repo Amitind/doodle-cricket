@@ -11,3 +11,20 @@ on web where actual html files are
 on telegram 
 [@Doodle Cricket](t.me/doodlecricketbot)
 
+
+To Run your Telegram Game Bot follow few steps,
+
+
+* Create Bot using [BotFather](https://telegram.me/botfather) on telegram [Steps](https://core.telegram.org/bots#3-how-do-i-create-a-bot)
+*
+
+* copy this project on [Glitch](https://Glitch.com), [Project](https://doodle-cricket-telegram-game.glitch.me)
+* Add your BOT_TOKEN in .env  
+* Change gameUrl value to your game url
+* gameShortName  value to your game short name that you set
+
+You are ready to go, check your bot
+
+Bot is based on [Telegraf](http://telegraf.js.org)
+
+

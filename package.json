@@ -1,0 +1,30 @@
+{
+  "name": "telegraf",
+  "version": "3.17.2",
+  "description": "📡 Modern Telegram bot framework",
+  "license": "MIT",
+  "author": "Vitaly Domnikov <dotcypress@gmail.com>",
+  "homepage": "https://github.com/telegraf/telegraf#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/telegraf/telegraf.git"
+  },
+  
+  "main": "telegraf.js",
+  "scripts": {
+        "start": "node telegraf.js"
+  },
+  "engines": {
+    "node": ">=6.2.0"
+  },
+  "dependencies": {
+    
+   "telegraf": "^3.17.2"
+  },
+ 
+  "keywords": [
+    "telegraf",
+    "telegram",
+    "bot framework"
+  ]
+}

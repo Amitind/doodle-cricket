@@ -9,7 +9,7 @@ on web where actual html files are
 
 
 on telegram 
-[@Doodle Cricket](t.me/doodlecricketbot)
+[@Doodle Cricket](https://t.me/doodlecricketbot)
 
 
 To Run your Telegram Game Bot follow few steps,
